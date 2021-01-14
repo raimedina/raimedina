@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm [Raiza Medina!](https://github.com/raimedina/)
+## Hey 👋, I'm [Rai Medina!](https://github.com/raimedina/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/raizamedina)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://raimedina.com)
@@ -28,9 +28,5 @@ I have always been passionate about communicating, people and their stories, so 
 <div align="center">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>your history, I'll be happy to meet you!</b></em>
-
-
-
----
 
 </div>
