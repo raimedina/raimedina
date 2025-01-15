@@ -36,9 +36,10 @@ I'm currently enhancing my **Component Library** by improving existing component
 
 - 🎓 **Master's in Communication Sciences** – University of Porto *(2016–2021)*  
 - 🎓 **Bachelor's in Journalism** – Federal University of Pelotas *(2011–2014)*  
+- 📱 **Mobile Programming** – IEFP, Portugal *(2024)*
 - 🎨 **Design Basics** – Interaction Design Foundation *(2023)*  
 - 💻 **Fullstack Bootcamp** – Academia do Código *(2020)*  
-- 📱 **Mobile Programming** – IEFP, Portugal *(2023)*
+
 
 ---
 
