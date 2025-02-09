@@ -8,7 +8,7 @@
 ### ✨ About Me
 
 I'm a **Frontend Developer** with nearly **9 years of international experience** and a **Master's Degree in Communication Sciences**.  
-I combine my background in **communication**, **design**, and **software development** to create dynamic and engaging digital solutions.
+I combine my background in **communication** and **software development** to create dynamic and engaging digital solutions.
 
 🔍 **Focused on building intuitive user interfaces** using **HTML**, **CSS**, **JavaScript**, **React**, **Storybook**, and **Redux**.  
 📱 Implementing features in **mobile applications** with **React Native**.  
