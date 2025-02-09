@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Raiza Medina!](https://github.com/raimedina/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/raizamedina)
-[![Gmail Badge](https://img.shields.io/badge/-raiza.silveira.medina@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:raiza.silveira.medina@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-raiza.silveira.medina@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:developermedinaraiza@gmail.com)
 
 ---
 
