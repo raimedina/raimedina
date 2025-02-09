@@ -28,6 +28,9 @@ I'm currently enhancing my **Component Library** by improving existing component
   <a href="https://storybook.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="storybook" width="40" height="40"/> </a>
   <a href="https://jestjs.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> </a>
   <a href="https://figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+  <a href="https://testing-library.com/" target="_blank"> <img src="https://testing-library.com/img/octopus-64x64.png" alt="testing-library" width="40" height="40"/> </a>
+  <a href="https://github.com/features/actions" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github-actions" width="40" height="40"/> </a>
 </p>
 
 ---
